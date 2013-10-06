@@ -1,4 +1,4 @@
 # README
-=========
 To run tests
-  bundle exec rspec
+
+    bundle exec rspec
